@@ -20,3 +20,6 @@ DAX (Data Analysis Expressions): Complex business logic and KPI calculations.
 
 ## DataSet Used
 -<a href = "https://github.com/AhmedTAher10/sales-dashboard/blob/main/Sales.xlsx">Dataset</a>
+
+## View Dashboard
+-<a href = "https://github.com/AhmedTAher10/sales-dashboard/blob/main/Sales%20Data%20Analytics%20%26%20Business%20Intelligence%20System.pdf">View Dashboard</a>
