@@ -23,3 +23,7 @@ DAX (Data Analysis Expressions): Complex business logic and KPI calculations.
 
 ## View Dashboard
 -<a href = "https://github.com/AhmedTAher10/sales-dashboard/blob/main/Sales%20Data%20Analytics%20%26%20Business%20Intelligence%20System.pdf">View Dashboard</a>
+
+## Dashboard
+<img width="1177" height="673" alt="1" src="https://github.com/user-attachments/assets/c46b4e5c-e294-4184-9c5e-e97d45139a93" />
+
