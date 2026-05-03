@@ -17,6 +17,8 @@ Product Hierarchy: Optimized inventory insights by categorizing order details, s
 Power BI Desktop: Dashboard design and report authoring. 
 Power Query: Data transformation and cleaning. 
 DAX (Data Analysis Expressions): Complex business logic and KPI calculations.
+Data Source: sales Dataset (kaggle)
+
 
 ## DataSet Used
 -<a href = "https://github.com/AhmedTAher10/sales-dashboard/blob/main/Sales.xlsx">Dataset</a>
